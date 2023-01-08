@@ -1,6 +1,6 @@
 {
   "name": "conspirey-api-wrapper",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "conspirey api wrapper",
   "main": "lib/index.js",
   "types": "lib",
